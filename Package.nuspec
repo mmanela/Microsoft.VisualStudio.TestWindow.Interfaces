@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Microsoft.VisualStudio.TestWindow.Interfaces</id>
+    <version>11.0.61030.0</version>
+    <authors>Matthew Manela</authors>
+    <owners>Matthew Manela</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides the Microsoft.VisualStudio.TestWindow.Interfaces dll</description>
+  </metadata>
+</package>
